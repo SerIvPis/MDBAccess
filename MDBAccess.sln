@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDBAccess", "MDBAccess\MDBAccess.csproj", "{94DE44B4-F283-458E-BD76-77D8181649AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryMDB", "LibraryMDB\LibraryMDB.csproj", "{FE8A2436-D02C-4948-8BB2-F647FE2F7677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{94DE44B4-F283-458E-BD76-77D8181649AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94DE44B4-F283-458E-BD76-77D8181649AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94DE44B4-F283-458E-BD76-77D8181649AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8A2436-D02C-4948-8BB2-F647FE2F7677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8A2436-D02C-4948-8BB2-F647FE2F7677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8A2436-D02C-4948-8BB2-F647FE2F7677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8A2436-D02C-4948-8BB2-F647FE2F7677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
